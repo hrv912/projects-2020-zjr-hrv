@@ -9,6 +9,6 @@ This **loades two datasets**:
 1. INDKP101.xlsx downloaded from statistikbanekn.dk/INDKP101
 1. RAS200.xlsx downloaded from statistikbanekn.dk/RAS200
 
-**Dependencies:** Apart from a standard Anaconda Python 3 installation the project requires the following installations:
+**Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires the following installations:
 
 ``pip install matplotlib-venn``
